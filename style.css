@@ -1,0 +1,99 @@
+.titles{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    font-size: 50px;
+    color: hsl(0, 0%, 95%);
+}
+
+.rectangle{
+    
+    float: left;
+    width: 31%;
+    height: 500px;
+    padding-top: 50px;
+    padding-left: 25px;
+    
+}
+
+#overalldiv{
+    padding-top: 7%;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 7%;
+}
+
+.paragraph{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 400;
+    width: 250px;
+    line-height: 25px;
+}
+#sedbutton{
+    color: hsl(31, 77%, 52%);
+    font-family: 'Lexend Deca', sans-serif;
+    margin: 12px;
+}
+#sedbutton:hover{
+    color: hsla(0, 0%, 100%, 0.75);
+    
+    
+}
+#suvbutton{
+    color: hsl(184, 100%, 22%);
+    font-family: 'Lexend Deca', sans-serif;
+    margin: 12px;
+}
+#suvbutton:hover{
+    color: hsla(0, 0%, 100%, 0.75);
+   
+    
+}
+#luxbutton{
+    color: hsl(179, 100%, 13%);
+    font-family: 'Lexend Deca', sans-serif;
+    margin: 12px;
+}
+#luxbutton:hover{
+    color: hsla(0, 0%, 100%, 0.75);
+    
+    
+}
+
+.learn{
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 20px;
+    border: none;
+    margin-top: 30px;
+    transition: 1.5s;
+}
+
+
+#sedans{
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 15px 0 0 15px;
+    
+}
+#suvs{
+    background-color: hsl(184, 100%, 22%);
+    
+    
+}
+#luxury{
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0 15px 15px 0;
+}
+#learnsed:hover{
+    border: 1px solid white;
+    background-color: hsl(31, 77%, 52%);
+}
+#learnsuv:hover{
+    border: 1px solid white;
+    background-color: hsl(184, 100%, 22%);
+    
+}
+#learnlux:hover{
+    border: 1px solid white;
+    background-color: hsl(179, 100%, 13%);
+}
