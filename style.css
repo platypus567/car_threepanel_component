@@ -35,7 +35,7 @@
     font-family: 'Lexend Deca', sans-serif;
     margin: 12px;
 }
-#sedbutton:hover{
+#learnsed:hover #sedbutton{
     color: hsla(0, 0%, 100%, 0.75);
     
     
@@ -45,7 +45,7 @@
     font-family: 'Lexend Deca', sans-serif;
     margin: 12px;
 }
-#suvbutton:hover{
+#learnsuv:hover #suvbutton{
     color: hsla(0, 0%, 100%, 0.75);
    
     
@@ -55,7 +55,7 @@
     font-family: 'Lexend Deca', sans-serif;
     margin: 12px;
 }
-#luxbutton:hover{
+#learnlux:hover #luxbutton{
     color: hsla(0, 0%, 100%, 0.75);
     
     
