@@ -97,3 +97,21 @@
     border: 1px solid white;
     background-color: hsl(179, 100%, 13%);
 }
+@media (max-width: 800px){
+    #overalldiv{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #sedans{
+        border-radius: 15px 15px 0 0;
+    }
+    #luxury{
+        border-radius: 0 0 15px 15px;
+    }
+    .rectangle{
+        padding-left: 30px;
+        padding-right: 50px;
+        margin-right: 35%;
+    }
+}
