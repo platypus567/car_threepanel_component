@@ -114,4 +114,11 @@
         padding-right: 200px;
         
     }
+    button{
+        width: 200px;
+        height: 75px;
+        margin: 25%;
+        font-size: larger;
+    }
+
 }
