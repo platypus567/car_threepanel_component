@@ -97,7 +97,7 @@
     border: 1px solid white;
     background-color: hsl(179, 100%, 13%);
 }
-@media (max-width: 800px){
+@media (max-width: 400px){
     #overalldiv{
         display: flex;
         flex-direction: column;
@@ -111,7 +111,7 @@
     }
     .rectangle{
         padding-left: 30px;
-        padding-right: 50px;
-        margin-right: 35%;
+        padding-right: 200px;
+        
     }
 }
